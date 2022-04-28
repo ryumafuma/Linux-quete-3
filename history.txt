@@ -1,0 +1,15 @@
+  425  grep -i"toulouse" jswilders.csv > jstoulouse.csv
+  426  grep -i "toulouse" jswilders.csv > jstoulouse.csv
+  427  cat jstoulouse.csv
+  428  grep -i "biarritz" jswilders.csv > jsbiarritz.csv
+  429  cat jsbiarritz.csv
+  430  cat jsbiarritz.csv jstoulouse.csv > javascript_biarritz_toulouse.csv
+  431  cat jsbiarritz.csv jstoulouse.csv > javascript_biarritz_toulouse.csv
+  432  git init
+  433  git add
+  434  git add history.txt
+  435  cd history.txt
+  436  ls
+  437  history | tail -10
+  438  history | tail -20
+  439  history | tail -15 > history.txt
