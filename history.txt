@@ -5,11 +5,8 @@
   429  cat jsbiarritz.csv
   430  cat jsbiarritz.csv jstoulouse.csv > javascript_biarritz_toulouse.csv
   431  cat jsbiarritz.csv jstoulouse.csv > javascript_biarritz_toulouse.csv
-  432  git init
-  433  git add
-  434  git add history.txt
-  435  cd history.txt
-  436  ls
-  437  history | tail -10
-  438  history | tail -20
-  439  history | tail -15 > history.txt
+  432  cd history.txt
+  433  ls
+  434  history | tail -10
+  435  history | tail -20
+  436  history | tail -15 > history.txt
